@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Obiedo
+Student ID: TUPM-26-4134
+Seed Digit: 4
+ID Sum: 20
+Verification Value: 124
+Dataset Sample Size: 70
+Valid Records: 0
+Average Global Active Power: 0.000
+JSON File: Obiedo_TUPM-26-4134_record.json
+Backup File: Obiedo_TUPM-26-4134_record.csv

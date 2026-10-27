@@ -1,0 +1,5 @@
+Student: Obiedo
+Student ID: TUPM-26-4134
+Seed Digit: 4
+ID sum: 20
+Verification value: 124
